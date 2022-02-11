@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Orb_Standard_Material
+  m_Shader: {fileID: -6465566751694194690, guid: 794e074cdee31734f81ba97ee4d7d68e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_24ec48d3ca814a73a2c8ab6bf929084c: 0
+    - Vector1_4b6e393c95704b32a0aa1bda3c4125fc: 0.2
+    - Vector1_77f80858ca6344399486a554e57f0063: 1.68
+    - Vector1_82936c5b22f141b9b8e6995b06f3114e: 0.5
+    - Vector1_b6356675f0b64a42a54a90aaea6ea3b4: 1.31
+    - Vector1_c1f398994f4141cd9485e21712e24df5: 0.63
+    - Vector1_e201d069cb9f4ba39d5fdad5501db746: 3.94
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _BumpScale: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DstBlend: 0
+    - _GlossinessSource: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Shininess: 0.7
+    - _Smoothness: 0.5
+    - _SmoothnessSource: 0
+    - _SpecSource: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _ZWrite: 1
+    m_Colors:
+    - Color_98b4c2b6220b4cadbf64f3084ea029d5: {r: 0.754717, g: 0.0747597, b: 0.445116, a: 0}
+    - Color_d5de11f399f2470b81402627632fba00: {r: 1, g: 0, b: 0.31697512, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

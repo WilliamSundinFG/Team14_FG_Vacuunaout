@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc8adb7a7616458459142a05cdfa0798
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Mixer: {fileID: 24100000, guid: ed45954976774164ca983009d275754a, type: 2}
+  - GameSounds: {fileID: 11400000, guid: 8f1909b5c2e71264a8d61bc9325c947a, type: 2}
+  - AmbienceGroup: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b2efea35233cf479caca5f73c4dc16, type: 3}
+  m_Name: VacuumStats
+  m_EditorClassIdentifier: 
+  EquipedPositionOffset: {x: 0, y: 0, z: 0}
+  MaxCapacity: 20
+  TimeBetweenShots: 0.3
+  Sets:
+  - PrimaryAction: {fileID: 11400000, guid: 8421a720977344d43baf64956b409cdc, type: 2}
+    SecondaryAction: {fileID: 11400000, guid: 2ab643815123ed9468198b7e78b4244b, type: 2}
+  - PrimaryAction: {fileID: 11400000, guid: ff79434168e75f14294039b377e2f950, type: 2}
+    SecondaryAction: {fileID: 11400000, guid: c37ef06d3c0480a4f9b281be6a649058, type: 2}

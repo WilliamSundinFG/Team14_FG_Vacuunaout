@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VacuumLightMat
+  m_Shader: {fileID: -6465566751694194690, guid: 6d67b51e13348404f9a3edddd6468ba2, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_47bc535176e44d3194fa8c35967e8090: 1
+    - Vector1_84686bd3f16844bdbbba5637ba795355: 0
+    - Vector1_9704d01fb5114cf5adb774f73eed153a: 0
+    m_Colors:
+    - Color_87ca44290b1944c4999ca4f08468738d: {r: 0.5019608, g: 0.2231387, b: 0, a: 0}
+    - Color_8e408a1533fc48008535f4070a025284: {r: 0.09051696, g: 0.4716981, b: 0, a: 0}
+    - Color_c58443eabf0649288a1c777fb0c50372: {r: 0.004485564, g: 0.3396226, b: 0.2995006, a: 0}
+    - Color_ca4b55bfe9af4e01bcb56658ed1e5eb4: {r: 0.33962262, g: 0.026913466, b: 0.22724158, a: 0}
+  m_BuildTextureStacks: []

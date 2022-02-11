@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: b0a58f06bcab6a34386f1a4b264f232d
+  - enabled: 1
+    path: Assets/Scenes/Samuel 2000.unity
+    guid: 456f1e917beb9814ebba282f25e5f390
+  - enabled: 1
+    path: Assets/Scenes/Winning Scene.unity
+    guid: 64ab1a6082181364fb539541258acdab
+  m_configObjects: {}

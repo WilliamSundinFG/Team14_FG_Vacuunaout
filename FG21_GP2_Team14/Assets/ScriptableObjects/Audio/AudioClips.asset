@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fbd9a8a81e3c634d95bb4b57f692e1e, type: 3}
+  m_Name: AudioClips
+  m_EditorClassIdentifier: 
+  EnvironmentSounds:
+  - {fileID: 8300000, guid: d413b7dae785d424eab493537885cfea, type: 3}
+  ImpactSounds: []
+  VaccumSounds:
+  - {fileID: 8300000, guid: b5eddb938940f884c97190d80eefd781, type: 3}
+  - {fileID: 8300000, guid: 68dd7cfc00bd89443b13e7eb9527d6ff, type: 3}
+  - {fileID: 8300000, guid: f37098e199c69084181cdd45b84605c5, type: 3}
+  - {fileID: 8300000, guid: 4fa4a7232ea742a4182d6d9e009126b9, type: 3}
+  - {fileID: 8300000, guid: c57dedf3f9505c545bf76d0d85738cfc, type: 3}
+  - {fileID: 8300000, guid: d34d0ffbc07925f4aa2791b6a1c78833, type: 3}
+  - {fileID: 8300000, guid: f186b312d63c59a4f9305113336cf998, type: 3}
+  - {fileID: 8300000, guid: 71d7d82fb15926a4a8cd0f69e53ec4ee, type: 3}
+  - {fileID: 8300000, guid: d275e52f9686e0b4dae2b84db38a1e96, type: 3}
+  GeneratorSounds:
+  - {fileID: 8300000, guid: 600f06361ad2e264895bc5b77d5143a7, type: 3}
+  - {fileID: 8300000, guid: 19ff0e880081c6f46b7c613881547337, type: 3}
+  - {fileID: 8300000, guid: dfc2c325d791d9644980e73737bfb761, type: 3}
+  PlayerActionSounds:
+  - {fileID: 8300000, guid: eed9a12ee30f4ca49be2ea16b9fce4b2, type: 3}
+  - {fileID: 8300000, guid: d22e1528d26b62d49b5fdd3e057e62c5, type: 3}
+  CharacterLandingSounds:
+  - {fileID: 8300000, guid: df5c73af509ba594ca560563d2b88cdd, type: 3}
+  - {fileID: 8300000, guid: 882c027986d472e4893a14cda625c1df, type: 3}
+  FootstepSounds:
+  - {fileID: 8300000, guid: 2af5e0dae738fd344ae00632e44bf0ab, type: 3}
+  - {fileID: 8300000, guid: 2f0387b7701f36d49ad81d3427559488, type: 3}
+  - {fileID: 8300000, guid: e7781cb0e70de90479cd18c28a786c84, type: 3}
+  - {fileID: 8300000, guid: d291970bdaf87c046ba1cc5408303529, type: 3}
+  - {fileID: 8300000, guid: 3b40d7f665ceffd45b7c3ca0e3132adb, type: 3}
+  AmbientSounds:
+  - {fileID: 8300000, guid: f226ce0b705e426449061fdee818b8ab, type: 3}
+  MenuSounds:
+  - {fileID: 8300000, guid: f44e8ff9d50ba424b94bb0545776a4c4, type: 3}
+  - {fileID: 8300000, guid: fb85db994e410274f92eac0b09a8dc67, type: 3}
+  - {fileID: 8300000, guid: 0c4c344ac996be64781946f150abac69, type: 3}

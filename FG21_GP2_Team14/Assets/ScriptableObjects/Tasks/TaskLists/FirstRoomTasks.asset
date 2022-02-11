@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aef6de65b3adc24692429081cd06732, type: 3}
+  m_Name: FirstRoomTasks
+  m_EditorClassIdentifier: 
+  Items:
+  - {fileID: 11400000, guid: 1888ad679d0dd074fa7f4a2bb44450e5, type: 2}
+  - {fileID: 11400000, guid: bb5cd5ecca298744492ab1fb29550f85, type: 2}
+  - {fileID: 11400000, guid: b870a6a061becb64195ee11de98a6750, type: 2}
+  - {fileID: 11400000, guid: 9c29621c77925fe4b9e77c5ce8f57280, type: 2}
+  - {fileID: 11400000, guid: 18ee347a714fca8499a4713d122d998b, type: 2}
+  - {fileID: 11400000, guid: aa5ca6bee55096e41a8e8ec03ccf4dd4, type: 2}
+  - {fileID: 11400000, guid: 2af65c7e575f0a24d9b4e38ac8b51b7e, type: 2}
+  - {fileID: 11400000, guid: 8c0c2a7ecd39e0142922f44f0da31853, type: 2}
+  - {fileID: 11400000, guid: d853814fab5c73044be3139ad55d42f5, type: 2}
+  - {fileID: 11400000, guid: 8ee4a2bd8cd22404ea791aa21b3a4274, type: 2}

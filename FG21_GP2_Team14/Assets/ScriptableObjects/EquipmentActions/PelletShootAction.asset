@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 446eb6dc5bfb99f4a97d4455704c3b34, type: 3}
+  m_Name: PelletShootAction
+  m_EditorClassIdentifier: 
+  StartupSoundIndex: -1
+  LoopSoundIndex: -1
+  EndSoundIndex: -1
+  PelletPrefab: {fileID: 4403492623844449279, guid: 61df7cbe8a9891340b1c49249156b8fc, type: 3}
+  ShootForce: 3000
+  ShootCost: 1
+  ShootSounds:
+  - {fileID: 8300000, guid: d275e52f9686e0b4dae2b84db38a1e96, type: 3}
+  - {fileID: 8300000, guid: 98b24e54b6a91554aab0283350591cc0, type: 3}
+  - {fileID: 8300000, guid: dcdf4e10601421b4f8094a1283aabea3, type: 3}
+  - {fileID: 8300000, guid: 11836b5e45cf2924793eec9624e61ead, type: 3}
+  EmptySound: {fileID: 8300000, guid: a2bb443b753d907439aed3552d4a800a, type: 3}
+  AudioManager: {fileID: 2938598962508372185, guid: abc1cc187d1fa064f9088a7566ab4f31, type: 3}
